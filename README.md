@@ -6,7 +6,7 @@ Este repositorio contiene las transparencias y los ejemplos de la jornada Data S
 
 Para correr los ejemplos se necesitan varias librerias de Python, en particular:
 
-**Ejemplo 1:**
+**[Ejemplo 1](https://github.com/manugarri/jornada_data_science_info_2017/blob/master/ejemplos/Ejemplo1/Ejemplo1-%20Prediccion%20de%20Series%20Temporales.ipynb)**
  - python-tika
  - python-fire
  - numpy (se puede eliminar cambiando la funcion para generar el rango de fechas en parse_borme.py)
@@ -14,7 +14,7 @@ Para correr los ejemplos se necesitan varias librerias de Python, en particular:
  - xmltodict 
  - fprophet
 
-**Ejemplo 2**
+**[Ejemplo 2](https://github.com/manugarri/jornada_data_science_info_2017/blob/master/ejemplos/Ejemplo2/Ejemplo2%20-%20Deteccion%20contenido%20adulto.ipynb)**
  - scrapy
  - parsel
  - scikit-learn
